@@ -1,5 +1,6 @@
-# Processing-for-Designers---Introduction-to-Programming
+# Processing for Designers – Introduction to Programming
 projects from university course "Processing for Designers - Introduction to Programming"
+
 
 ## Aray draw
 Mouse over the screen and than see, what you have drawn
