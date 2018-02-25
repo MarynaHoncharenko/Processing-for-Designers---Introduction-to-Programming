@@ -3,10 +3,10 @@ projects from university course "Processing for Designers - Introduction to Prog
 
 ## Aray draw
 Mouse over the screen and than see, what you have drawn
-
 ![draw the line](https://user-images.githubusercontent.com/36308912/36646955-012a2324-1a7f-11e8-8bec-b9234d5605a3.PNG)
 
 ## Kaninchen
+Reacting on mouse movements and due to the distance of cursor shows the rabbit's ears
 ![kaninchen](https://user-images.githubusercontent.com/36308912/36647078-7017ede2-1a80-11e8-836c-4103b6214dec.PNG)
 
 ## Pin Pong Game
